@@ -1,0 +1,7 @@
+Sex,Pclass,passengers,survivors,survival_rate,median_age,median_fare,pct_with_cabin
+female,1,94,91,0.968,35.0,82.66454999999999,0.862
+female,2,76,70,0.921,28.0,22.0,0.132
+female,3,144,72,0.5,21.5,12.475,0.042
+male,1,122,45,0.369,40.0,41.2625,0.779
+male,2,108,17,0.157,30.0,13.0,0.056
+male,3,347,47,0.135,25.0,7.925,0.017

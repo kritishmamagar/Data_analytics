@@ -1,0 +1,21 @@
+student_id,name,age,grade,city,email,nepali,english,maths,science,social
+1,Aarav Sharma,16,10,Kathmandu,aarav.sharma@example.com,78,88,92,85,80
+2,Priya Gurung,15,9,Pokhara,priya.gurung@example.com,65,76,70,74,72
+3,Bibek Thapa,17,11,Lalitpur,bibek.thapa@example.com,55,65,60,58,62
+4,Sita Rai,16,10,Kathmandu,sita.rai@example.com,89,91,85,88,90
+5,Anish Karki,15,9,Biratnagar,anish.karki@example.com,48,58,52,55,50
+6,Kritika Shrestha,17,11,Kathmandu,kritika.shrestha@example.com,80,84,78,82,86
+7,Rohan Magar,16,10,Pokhara,rohan.magar@example.com,68,72,75,70,66
+8,Nisha Tamang,15,9,Bhaktapur,nisha.tamang@example.com,92,95,90,94,93
+9,Suman Basnet,18,12,Kathmandu,suman.basnet@example.com,60,68,64,66,62
+10,Alina Adhikari,17,11,Lalitpur,alina.adhikari@example.com,75,79,82,80,77
+11,Deepak Bhandari,16,10,Biratnagar,deepak.bhandari@example.com,45,55,50,52,48
+12,Manisha Poudel,15,9,Kathmandu,manisha.poudel@example.com,85,89,91,87,88
+13,Nabin Khadka,18,12,Pokhara,nabin.khadka@example.com,63,73,69,71,67
+14,Sabina Lama,16,10,Kathmandu,sabina.lama@example.com,88,90,86,92,89
+15,Prakash Rana,17,11,Bhaktapur,prakash.rana@example.com,52,61,58,60,56
+16,Anjali Bista,15,9,Lalitpur,anjali.bista@example.com,80,86,84,88,82
+17,Ramesh Oli,18,12,Biratnagar,ramesh.oli@example.com,40,49,45,47,43
+18,Sunita Chaudhary,16,10,Kathmandu,sunita.chaudhary@example.com,90,94,96,93,91
+19,Kiran Bhattarai,17,11,Pokhara,kiran.bhattarai@example.com,70,77,74,76,72
+20,Puja Neupane,15,9,Bhaktapur,puja.neupane@example.com,78,82,80,85,79
